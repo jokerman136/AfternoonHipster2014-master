@@ -38,7 +38,7 @@ public class HipsterPanel extends JPanel
 	private void setupPanel()
 	{
 		this.setSize(1000,300);
-		this.setBackground(Color.YELLOW);
+		this.setBackground(Color.BLUE);
 		this.setLayout(baseLayout);
 		this.add(albumBox);
 		this.add(albumLabel);
